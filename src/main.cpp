@@ -1,5 +1,5 @@
-//
-// Created by jsuya on 8/20/2025.
-//
-
-#include "main.h"
+#include <iostream>
+int main() {
+    std::cout << "hello\n";
+    return 0;
+}
