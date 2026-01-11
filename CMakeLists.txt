@@ -60,6 +60,7 @@ endif()
 
 # On Windows, ensure we find the assets folder at runtime (for your font)
 # (CLion & VS usually run from the build dir; this copies assets alongside the exe)
+# Fixed the commit for this issue
 add_custom_command(TARGET ogl_terminal POST_BUILD
         COMMAND ${CMAKE_COMMAND} -E copy_directory
         ${CMAKE_SOURCE_DIR}/assets
