@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\6681bc427cf22d30b41c0c6a4dccf20a\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\6681bc427cf22d30b41c0c6a4dccf20a\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\6681bc427cf22d30b41c0c6a4dccf20a\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\6681bc427cf22d30b41c0c6a4dccf20a\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\6681bc427cf22d30b41c0c6a4dccf20a\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\6681bc427cf22d30b41c0c6a4dccf20a\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\6681bc427cf22d30b41c0c6a4dccf20a\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\6681bc427cf22d30b41c0c6a4dccf20a\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\65ea25b87d78b582bdee6f76d4e059a7\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\5d185c24402f8217565fc3e1ffe539f8\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0A494D4-78E3-334A-A9C1-AB1D9D57623D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

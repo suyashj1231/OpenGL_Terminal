@@ -1,0 +1,32 @@
+^C:\USERS\JSUYA\DOCUMENTS\GITHUB\OPENGL_TERMINAL-1\BUILD\CMAKEFILES\E32B2D7760D3F8E409F4A301905216A4\GLAD.H.RULE
+setlocal
+cd C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\jsuya\AppData\Local\Programs\Python\Python313\python.exe -m glad --profile=compatibility --out-path=C:/Users/jsuya/Documents/GitHub/OpenGL_Terminal-1/build/_deps/glad-build --api= --generator=c --extensions= --spec=gl
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JSUYA\DOCUMENTS\GITHUB\OPENGL_TERMINAL-1\BUILD\CMAKEFILES\5F9128D6BC734E1C494149D90C81791B\GLAD-GENERATE-FILES.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\JSUYA\DOCUMENTS\GITHUB\OPENGL_TERMINAL-1\BUILD\_DEPS\GLAD-SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/jsuya/Documents/GitHub/OpenGL_Terminal-1 -BC:/Users/jsuya/Documents/GitHub/OpenGL_Terminal-1/build --check-stamp-file C:/Users/jsuya/Documents/GitHub/OpenGL_Terminal-1/build/_deps/glad-build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

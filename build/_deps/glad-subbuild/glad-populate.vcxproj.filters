@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\656ff918b82785520e922d89c1daff78\glad-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\656ff918b82785520e922d89c1daff78\glad-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\656ff918b82785520e922d89c1daff78\glad-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\656ff918b82785520e922d89c1daff78\glad-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\656ff918b82785520e922d89c1daff78\glad-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\656ff918b82785520e922d89c1daff78\glad-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\656ff918b82785520e922d89c1daff78\glad-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\656ff918b82785520e922d89c1daff78\glad-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\440f39e32a415838bfda666e640b7d1c\glad-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\cf10449968c2bc8e2101f0612693fd5f\glad-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\jsuya\Documents\GitHub\OpenGL_Terminal-1\build\_deps\glad-subbuild\CMakeFiles\glad-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CE9535F1-F406-35D2-BF5E-241502AA1642}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
